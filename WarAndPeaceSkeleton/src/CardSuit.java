@@ -1,4 +1,4 @@
 
-public enum CardSuit {
+public enum CardSuit { Clubs, Diamonds, Hearts, Spades
 
-}
+};
